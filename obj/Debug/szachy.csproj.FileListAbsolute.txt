@@ -1,0 +1,10 @@
+C:\Users\Nubet\source\repos\szachy\szachy\bin\Debug\szachy.exe.config
+C:\Users\Nubet\source\repos\szachy\szachy\bin\Debug\szachy.exe
+C:\Users\Nubet\source\repos\szachy\szachy\bin\Debug\szachy.pdb
+C:\Users\Nubet\source\repos\szachy\szachy\obj\Debug\szachy.csproj.AssemblyReference.cache
+C:\Users\Nubet\source\repos\szachy\szachy\obj\Debug\szachy.Form1.resources
+C:\Users\Nubet\source\repos\szachy\szachy\obj\Debug\szachy.Properties.Resources.resources
+C:\Users\Nubet\source\repos\szachy\szachy\obj\Debug\szachy.csproj.GenerateResource.cache
+C:\Users\Nubet\source\repos\szachy\szachy\obj\Debug\szachy.csproj.CoreCompileInputs.cache
+C:\Users\Nubet\source\repos\szachy\szachy\obj\Debug\szachy.exe
+C:\Users\Nubet\source\repos\szachy\szachy\obj\Debug\szachy.pdb
